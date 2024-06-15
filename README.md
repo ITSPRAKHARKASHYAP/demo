@@ -1,3 +1,3 @@
 # demo
 This is my first Git-Repository.<br>
-Author-Prakhar Kashyap
+Author-Prakhar (itsprakharkashyap)
